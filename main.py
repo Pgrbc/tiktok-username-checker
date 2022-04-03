@@ -14,7 +14,6 @@ def write_file(arg: str) -> None:
         f.write(f'{arg}\n')
 
 
-
 class Checker:
     def __init__(self, usernames: List[str]):
         self.to_check = usernames
