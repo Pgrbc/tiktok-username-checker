@@ -1,4 +1,7 @@
 # tiktok-username-checker
+
+               CURRENTLY DOESNT WORK
+
   - The original tiktok username checker was made by https://github.com/sx-kaos , that is the owner of this orgs old account, his new account is https://github.com/jwestern1337
   - This is the 3rd version of the username checker
   - writen 100% in python
